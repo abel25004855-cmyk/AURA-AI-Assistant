@@ -1,0 +1,11 @@
+faster-whisper
+sounddevice
+edge-tts
+pygame
+pyautogui
+screen-brightness-control
+requests
+ollama
+psutil
+numpy
+scipy
